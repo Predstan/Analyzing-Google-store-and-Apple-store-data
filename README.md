@@ -1,4 +1,3 @@
-This my First Data science Project
 
 Title: Identifying Best Application to attract More Users.
 
